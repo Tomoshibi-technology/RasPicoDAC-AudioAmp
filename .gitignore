@@ -1,4 +1,6 @@
 .DS_Store
+
+#KiCAD
 *-backups
 *.lck
 fp-info-cache
