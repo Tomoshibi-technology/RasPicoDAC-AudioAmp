@@ -390,7 +390,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test.kicad_pro",
+    "filename": "main.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -467,7 +467,7 @@
   },
   "sheets": [
     [
-      "3b301d68-3828-4d1f-a3b7-7d2f8bd3de6c",
+      "4f57bce5-a0af-4dee-a148-d94d96167cd8",
       ""
     ]
   ],
