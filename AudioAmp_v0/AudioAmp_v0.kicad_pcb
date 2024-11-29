@@ -6460,7 +6460,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.5))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
         (xy 80.814899 14.617371)
@@ -6474,7 +6474,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.3))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
         (xy 30.48 18.415)
@@ -6632,7 +6632,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.5))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
         (xy 24.13 20.32)
@@ -6652,7 +6652,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.5))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
         (xy 15.24 32.385)
@@ -20542,7 +20542,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5) (smoothing chamfer) (radius 0.5))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
         (xy 49.53 57.15)
